@@ -3,7 +3,7 @@
 ## Assembly Compiler
 URL: https://godbolt.org/
 
-** This website displays a program from a high level prgramming language you choose (default is C++) in assembly code. **
+**This website displays a program from a high level prgramming language you choose (default is C++) in assembly code.**
 
 `
 int square(int num) 
@@ -43,7 +43,7 @@ and finally, `ret` returns the value of `eax` which is `edx * 9`, also known as 
 ## Visual Transistor-level Simulation of the 6502 CPU
 URL: http://www.visual6502.org/
 
-** This talks about, and shows a simulation of the MOS 6502 processor, one of the first mass produced CPUs **
+**This talks about, and shows a simulation of the MOS 6502 processor, one of the first mass produced CPUs**
 
 The people running this project took detailed images of the processor's silicon die (what the circuit is made of) and its substrate (which is essentially the Core of the CPU)
 Using the 2 images taken, they recreated a digital version of the processor using vector polygon models of each of the 20000 components (mostly transistors)
