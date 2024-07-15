@@ -57,7 +57,7 @@ Using this simulation, there were able to run multiple programs that used to be 
 ## CPU Simulation
 https://eseo-tech.github.io/emulsiV/
 
-**<ins>** This is a CPU simulator that outlines different steps of a given program, and how the processor would go about executing them. **<\ins>**
+**This is a CPU simulator that outlines different steps of a given program, and how the processor would go about executing them.**
 
 ![image](https://github.com/user-attachments/assets/8582a895-efac-405b-974a-459268e0d3e1)
 
